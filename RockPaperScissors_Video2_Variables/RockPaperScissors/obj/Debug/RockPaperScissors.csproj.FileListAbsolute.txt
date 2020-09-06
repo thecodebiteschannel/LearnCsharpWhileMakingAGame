@@ -1,0 +1,7 @@
+D:\Visual Studio\Repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+D:\Visual Studio\Repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+D:\Visual Studio\Repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+D:\Visual Studio\Repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+D:\Visual Studio\Repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+D:\Visual Studio\Repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
